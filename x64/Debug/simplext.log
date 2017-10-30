@@ -1,0 +1,8 @@
+﻿  kdsnap.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wdbgexts.h(2507): warning C4838: conversion from 'int' to 'ULONG' requires a narrowing conversion
+  exts.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wdbgexts.h(2507): warning C4838: conversion from 'int' to 'ULONG' requires a narrowing conversion
+  Generating Code...
+     Creating library C:\Users\shak\Desktop\KDSnap-master\x64\Debug\kdsnap.lib and object C:\Users\shak\Desktop\KDSnap-master\x64\Debug\kdsnap.exp
+  simplext.vcxproj -> C:\Users\shak\Desktop\KDSnap-master\x64\Debug\kdsnap.dll
+  simplext.vcxproj -> C:\Users\shak\Desktop\KDSnap-master\x64\Debug\kdsnap.pdb (Full PDB)
