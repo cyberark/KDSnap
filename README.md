@@ -10,7 +10,7 @@ KDSnap is a DLL extension for WinDbg that integrates your debugger with your vir
 
 Change the virtualization platform (default is VMware).
 ```
-kd> !connectVM <VMware / VBox> 
+kd> !platform<VMware / VBox> 
 ```
 Connecting to the virtual machine is done using the *.vmx* file full path when using **VMware** or using the machine's fullname when using **VirtualBox**.
 ```
