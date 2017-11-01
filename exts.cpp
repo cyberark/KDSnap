@@ -432,11 +432,11 @@ DECLARE_API(platform)
 		goto SyntaxError;
 	}
 
-	if (strcmp(plt, "vbox")) {
+	if (!strcmp(plt, "vbox")) {
 		current_platform = vbox;
 		dprintf("[+] Current platform is now set to VirtualBox\r\n");
 	}
-	else if (strcmp(plt, "vmware")) {
+	else if (!strcmp(plt, "vmware")) {
 		current_platform = vmware;
 		dprintf("[+] Current platform is now set to VMWare\r\n");
 	}
