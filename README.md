@@ -1,5 +1,5 @@
 # KDSnap
-___
+
 KDSnap is a DLL extension for WinDbg that integrates your debugger with your virtualization platform of choice. You can read more on the related [article](https://www.cyberark.com/threat-research-blog/kdsnap) on our blog.
 
 ## Overview
