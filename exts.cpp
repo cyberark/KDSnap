@@ -110,7 +110,7 @@ int getSnapshotByName(char *name, VixHandle *out) {
 //
 // Usage:		!connectVM <vmx-path>
 //
-DECLARE_API(virtualMachine) 
+DECLARE_API(connectVM) 
 {
 
 	if (current_platform == vbox) {
